@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Async</string>
+    <string name="asynctask_activity">AsyncTask Activity</string>
+    <string name="threads_activity">Threads Activity</string>
+    <string name="create">Create</string>
+    <string name="start">start</string>
+    <string name="cancel">cancel</string>
+    <string name="first_create_a_task">First Create A Task</string>
+</resources>
